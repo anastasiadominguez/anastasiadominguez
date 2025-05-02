@@ -24,19 +24,19 @@
 
 <a href="https://www.youtube.com/watch?v=anE39NZF9Kw" target="_blank">
   <img src="https://img.youtube.com/vi/anE39NZF9Kw/maxresdefault.jpg" width="300" alt="Short film 360 - Strati"/><br>
-  <strong>🎥 Short film 360 - *Strati*</strong>
+  <strong>🎥 Short film 360 - Strati</strong>
 </a>
 <br><br>
 
 <a href="https://www.youtube.com/watch?v=JKVR_b7BoJI" target="_blank">
   <img src="https://img.youtube.com/vi/JKVR_b7BoJI/maxresdefault.jpg" width="300" alt="Virtual reality experience - Memories Within The Walls"/><br>
-  <strong>🕶️ Virtual reality experience - *Memories Within The Walls*</strong>
+  <strong>🕶️ Virtual reality experience - Memories Within The Walls</strong>
 </a>
 <br><br>
 
 <a href="https://www.youtube.com/watch?v=XRQAT5P-0qQ" target="_blank">
   <img src="https://img.youtube.com/vi/XRQAT5P-0qQ/maxresdefault.jpg" width="300" alt="Immersive art installation - Sono Io, Aurora"/><br>
-  <strong>🎨 Immersive art installation - *Sono Io, Aurora*</strong>
+  <strong>🎨 Immersive art installation - Sono Io, Aurora</strong>
 </a>
 
 </div>
