@@ -1,15 +1,11 @@
 # 👋 Hi, I'm Anastasia!
 
-🎓 I'm a student in **Cinema and Media Engineering** at Politecnico di Torino, passionate about **virtual reality**, **augmented reality**, **immersive experiences**, and **historical reconstruction**.
+🎓 **Master's graduate in Cinema & Media Engineering from Politecnico di Torino**
 
-🔍 **Currently**, I'm working on my thesis project, developing an **AR/VR experience** for Meta Quest 3, focused on:
-- **3D scanning** using **photogrammetry** (Polycam + Blender)
-- **Spatial tracking** and **AR/VR integration** with Unity and OpenXR
-- **Usability** and **emotional engagement** studies in museum environments
-- Historical storytelling centered around the **Italian Resistance**.
+Passionate about **interactive and immersive AR/VR experiences**, I specialize in **User Experience & Interaction Design**. With strong technical skills across multiple programming languages, I love blending **creativity + technology** for **educational and museum applications**.
 
 🚀 **Goals**:
-- Create experiences that enhance historical memory and human-centered storytelling.
+- Create experiences that enhance human-centered storytelling.
 - Contribute to projects that combine technology, narrative, and social impact.
 
 ## 🌐 Socials:
