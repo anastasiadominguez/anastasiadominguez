@@ -20,11 +20,12 @@ Passionate about **interactive and immersive AR/VR experiences**, I specialize i
 ## 📹 Project Videos
 
 <div align="center">
-
+Utente04.jpg
 <a href="https://anastasiadominguez.github.io/portfolio/#/projects/thesis" target="_blank">
-  <img src="https://img.shields.io/badge/📚%20Master's%20Thesis-Immersive%20AR%2FVR%20Experiences-blue?style=for-the-badge" alt="Master's Thesis"/><br>
-  <strong>📚 Master's Thesis - Immersive AR/VR for Prison Museum Heritage</strong>
+  <img src="/Utente04.jpg" width="300" alt="Master's Thesis"/><br>
+  <strong>📚 Master's Thesis - Immersive AR/VR Experiences</strong>
 </a>
+<br><br>
 
 <a href="https://www.youtube.com/watch?v=anE39NZF9Kw" target="_blank">
   <img src="https://img.youtube.com/vi/anE39NZF9Kw/maxresdefault.jpg" width="300" alt="Short film 360 - Strati"/><br>
