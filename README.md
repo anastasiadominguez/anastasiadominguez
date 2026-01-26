@@ -20,7 +20,6 @@ Passionate about **interactive and immersive AR/VR experiences**, I specialize i
 ## 📹 Project Videos
 
 <div align="center">
-Utente04.jpg
 <a href="https://anastasiadominguez.github.io/portfolio/#/projects/thesis" target="_blank">
   <img src="/Utente04.jpg" width="300" alt="Master's Thesis"/><br>
   <strong>📚 Master's Thesis - Immersive AR/VR Experiences</strong>
